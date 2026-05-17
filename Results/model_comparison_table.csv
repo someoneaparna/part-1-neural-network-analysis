@@ -1,0 +1,5 @@
+Experiment,Test Accuracy,Test Loss
+Baseline,0.9625,0.1391
+Deeper Network,0.97,0.2075
+High LR + Small Net,0.95,0.17
+Low LR + Small Batch,0.875,0.2854
